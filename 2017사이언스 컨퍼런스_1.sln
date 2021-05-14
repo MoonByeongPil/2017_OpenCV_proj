@@ -1,0 +1,141 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "p-10 meanshift", "F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-10 meanshift\p-10 meanshift.exe", "{06A32591-0567-49A9-A899-B3E2F4ACFB7C}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-10 meanshift\p-10 meanshift.exe
+		RemoteMachine = DESKTOP-QJGSM4H
+		StartingDirectory = F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-10 meanshift
+		Environment = 기본값
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "p-9 색값추출", "F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-9 색값추출\p-9 색값추출.exe", "{768B8670-8464-4FFA-BF19-5DAAB7CD2DE2}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-9 색값추출\p-9 색값추출.exe
+		RemoteMachine = DESKTOP-QJGSM4H
+		StartingDirectory = F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-9 색값추출
+		Environment = 기본값
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "이름없음1", "F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-8사각형 드로잉\이름없음1.exe", "{205D00D7-F89A-4DC9-AF3D-B097BA59EF4E}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-8사각형 드로잉\이름없음1.exe
+		RemoteMachine = DESKTOP-QJGSM4H
+		StartingDirectory = F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-8사각형 드로잉
+		Environment = 기본값
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "p-7 사각형 드로잉", "F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-7 사각형 드로잉\p-7 사각형 드로잉.exe", "{C4FF0D8E-FBF4-4CAF-94C3-98CCA0744943}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-7 사각형 드로잉\p-7 사각형 드로잉.exe
+		RemoteMachine = DESKTOP-QJGSM4H
+		StartingDirectory = F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-7 사각형 드로잉
+		Environment = 기본값
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "p-6 탬플릿 트래킹 이진화", "F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-6 템플릿트래킹 이진화\p-6 탬플릿 트래킹 이진화.exe", "{9FA39382-B394-49CA-9AB0-D1B4501D7E71}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-6 템플릿트래킹 이진화\p-6 탬플릿 트래킹 이진화.exe
+		RemoteMachine = DESKTOP-QJGSM4H
+		StartingDirectory = F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-6 템플릿트래킹 이진화
+		Environment = 기본값
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "p-4-카메라 입력-streo", "F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-4 카메라출력-stereo\p-4-카메라 입력-streo.exe", "{A5363F2D-82FE-455B-A2A7-F5E59178AE8B}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-4 카메라출력-stereo\p-4-카메라 입력-streo.exe
+		RemoteMachine = DESKTOP-QJGSM4H
+		StartingDirectory = F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-4 카메라출력-stereo
+		Environment = 기본값
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "p-3 탬플릿 트래킹", "F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-3 템플릿 트래킹\p-3 탬플릿 트래킹.exe", "{1D87D10D-F63A-4234-B5B8-2543787D1535}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-3 템플릿 트래킹\p-3 탬플릿 트래킹.exe
+		RemoteMachine = DESKTOP-QJGSM4H
+		StartingDirectory = F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-3 템플릿 트래킹
+		Environment = 기본값
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "p-2-탬플릿매칭", "F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-2 템플릿매칭\p-2-탬플릿매칭.exe", "{635AFA7F-1EC6-4A84-A5EC-D6860FA4E059}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-2 템플릿매칭\p-2-탬플릿매칭.exe
+		RemoteMachine = DESKTOP-QJGSM4H
+		StartingDirectory = F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-2 템플릿매칭
+		Environment = 기본값
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "p-1-카메라 출력", "F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-1 카메라출력\p-1-카메라 출력.exe", "{18A460F6-D12C-4304-99B5-FE4B5A0C6B57}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-1 카메라출력\p-1-카메라 출력.exe
+		RemoteMachine = DESKTOP-QJGSM4H
+		StartingDirectory = F:\문병필\문병필\2학년\2017 사이언스 컨퍼런스\p-1 카메라출력
+		Environment = 기본값
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06A32591-0567-49A9-A899-B3E2F4ACFB7C}.Release|x86.ActiveCfg = Release|x86
+		{768B8670-8464-4FFA-BF19-5DAAB7CD2DE2}.Release|x86.ActiveCfg = Release|x86
+		{205D00D7-F89A-4DC9-AF3D-B097BA59EF4E}.Release|x86.ActiveCfg = Release|x86
+		{C4FF0D8E-FBF4-4CAF-94C3-98CCA0744943}.Release|x86.ActiveCfg = Release|x86
+		{9FA39382-B394-49CA-9AB0-D1B4501D7E71}.Release|x86.ActiveCfg = Release|x86
+		{A5363F2D-82FE-455B-A2A7-F5E59178AE8B}.Release|x86.ActiveCfg = Release|x86
+		{1D87D10D-F63A-4234-B5B8-2543787D1535}.Release|x86.ActiveCfg = Release|x86
+		{635AFA7F-1EC6-4A84-A5EC-D6860FA4E059}.Release|x86.ActiveCfg = Release|x86
+		{18A460F6-D12C-4304-99B5-FE4B5A0C6B57}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
